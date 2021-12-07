@@ -1,0 +1,149 @@
+#header{
+    height: 50px;
+    width:100%;
+    background-color:lightyellow;
+    margin:auto;
+    display: inline-block;
+}
+#icon{
+    color:red;
+    font-size:15px;
+    width:25%;
+    font-weight:bold;
+    float:left;
+    margin-top:-1%;
+    margin-left:1%;
+    font-style:italic;
+}
+#social{
+    height:60px;
+    width:15%;
+    float:right;
+}
+a{
+    text-decoration:none;
+}
+.slogo{
+    height:50px;
+    width:60px;
+    background-color:lightyellow;
+    margin-right:1%;
+}
+#image-container{
+    height:410px;
+    width:100%;
+    background-color:lightyellow;
+}
+.image{
+    height:410px;
+    width: 15%;
+    float:right;
+    margin-right:20%;
+}
+#text-container{
+    height:600px;
+    width:50%;
+    margin-left:2%;
+}
+.text{
+    font-size:18px;
+    display:inline-block;
+    font-style: italic;
+    margin-left:10%;
+    text-align:center;
+    font-weight:bold;
+    margin-top:6%;
+}
+#divisionsContainer{
+    height:50px;
+    width:100%;
+    background-color:brown;
+}
+.divisions{
+    float:left;
+    background-color:brown;
+    font-weight:bold;
+    font-size:18px;
+    width:20%;
+    text-align:center;
+    margin-top:1%;
+}
+.divisionText{
+    color:white;
+    height:15px;
+    margin-left:60%;
+}
+#skillDivision{
+    background-color:lightyellow;
+    height:600px;
+    width:100%;
+    text-align:center;
+    display:inline-block;
+}
+#skill-header{
+    color:red;
+    font-size:25px;
+    font-style:Italic;
+    font-weight:bold;
+    margin-top:2%;
+}
+.skilltext{
+    font-weight:bold;
+    font-style: italic;
+}
+*{box-sizing: border-box}
+.container {
+     width: 100%;
+    background-color:rgb(202, 201, 201);
+}
+.skills {
+    text-align: right; 
+    padding-top: 0px; 
+    padding-bottom: 0px;
+    color:black; 
+}
+.SQL {width: 95%; background-color:rgb(179, 166, 135);}
+.PLSQL {width: 90%; background-color: #94d4bd;}
+.HTML {width: 80%; background-color:rgb(221, 184, 169);} 
+.CSS {width: 60%; background-color:rgb(178, 230, 178);}
+.Excel {width: 85%; background-color:rgb(197, 197, 245);}  
+
+#hobbyContainer{
+    background-color:lightyellow;
+    height:300px;
+    width:100%;
+    float:left;
+    text-align:center;
+}  
+p{
+    color:red;
+    font-size:20px;
+    font-style:Italic;
+    font-weight:bold;
+    margin-top:2%;
+    
+}
+.hobby{
+    height:200px;
+    width:31%;
+    float:left;
+}
+.images{
+    height:200px;
+    width:60%;
+    margin-left:30%;
+    float:left;
+}
+#contact{
+    height:100px;
+    width:100%;
+    text-align:center;
+}
+#info{
+    height:80px;
+}
+#top{
+    height:15px;
+    width:100%;
+    text-align:center;
+}

@@ -1,0 +1,6 @@
+////first time from folder
+git init
+git add
+git commit -m "first commit"
+git remote add origin https://github.com/mehta17/edureka_profile.git
+git push -u origin main
