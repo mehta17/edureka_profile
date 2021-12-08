@@ -2,9 +2,9 @@
     height: 50px;
     width:100%;
     background-color:lightyellow;
-    margin:auto;
     display: inline-block;
-}
+    margin-top:-8px;    
+}       
 #icon{
     color:red;
     font-size:15px;
@@ -33,6 +33,7 @@ a{
     height:410px;
     width:100%;
     background-color:lightyellow;
+    margin-top:0;
 }
 .image{
     height:410px;
@@ -44,6 +45,7 @@ a{
     height:600px;
     width:50%;
     margin-left:2%;
+    margin-top:-5px;
 }
 .text{
     font-size:18px;
